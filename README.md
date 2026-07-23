@@ -19,6 +19,10 @@ Chỉ dựa vào @[.agents/skills] hiện tại , ưu tiên dùng pnpm
 Install the Remotion Skills Suite directly into your AI Agent / Cursor / Antigravity workspace with a single command:
 
 ```bash
+# Non-interactive (install all skills automatically)
+npx skills add phamthanhnghia/remotion-agent-skills --all -y
+
+# Interactive / full depth
 npx skills add phamthanhnghia/remotion-agent-skills --full-depth
 ```
 
