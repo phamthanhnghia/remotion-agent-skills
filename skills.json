@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/skills.json",
   "name": "remotion-agent-skills",
-  "description": "Programmatic video creation skills suite for Remotion",
+  "description": "Programmatic video creation agent skills suite for Remotion (19 load-on-demand skills)",
   "entries": [
     { "path": "skills/remotion" },
     { "path": "skills/remotion-core" },
@@ -10,6 +10,17 @@
     { "path": "skills/remotion-cli" },
     { "path": "skills/remotion-creative" },
     { "path": "skills/remotion-media" },
-    { "path": "skills/remotion-data-viz" }
+    { "path": "skills/remotion-data-viz" },
+    { "path": "skills/remotion-explainer" },
+    { "path": "skills/remotion-product-launch" },
+    { "path": "skills/remotion-motion-graphics" },
+    { "path": "skills/remotion-slideshow" },
+    { "path": "skills/remotion-music-video" },
+    { "path": "skills/remotion-captions" },
+    { "path": "skills/remotion-overlay" },
+    { "path": "skills/remotion-general" },
+    { "path": "skills/remotion-social" },
+    { "path": "skills/remotion-podcast" },
+    { "path": "skills/hyperframes-to-remotion" }
   ]
 }

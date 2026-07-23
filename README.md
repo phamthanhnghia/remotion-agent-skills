@@ -28,84 +28,33 @@ Alternatively, clone repository skills into your local project's `.agents/skills
 git clone https://github.com/phamthanhnghia/remotion-agent-skills.git .agents/skills
 ```
 
-## Structure
+## 🧠 Structure (19 Load-on-Demand Agent Skills)
 
 ```
 .agents/skills/
-├── remotion/                   # Entry point — read first for any Remotion request
-│   ├── SKILL.md
-│   └── references/
-│       ├── intent-interview.md
-│       ├── capability-menu.md
-│       ├── skill-lifecycle.md
-│       ├── workflow-catalog.md
-│       └── routes/             # One file per workflow route
-│           ├── remotion-explainer.md
-│           ├── remotion-product-launch.md
-│           ├── remotion-motion-graphics.md
-│           ├── remotion-slideshow.md
-│           ├── remotion-music-video.md
-│           ├── remotion-captions.md
-│           ├── remotion-overlay.md
-│           ├── remotion-data-viz.md
-│           ├── remotion-general.md
-│           └── hyperframes-to-remotion.md
-│
-├── remotion-core/              # Composition contract — read before writing code
-│   ├── SKILL.md
-│   └── references/
-│       ├── minimal-composition.md
-│       ├── determinism-rules.md
-│       ├── timing-api.md
-│       ├── sequence-and-series.md
-│       └── calculate-metadata.md
-│
-├── remotion-animation/         # All motion knowledge
-│   ├── SKILL.md
-│   ├── rules-index.md
-│   ├── blueprints-index.md
-│   ├── rules/
-│   │   ├── fade-up.md
-│   │   ├── scale-in.md
-│   │   └── typewriter.md
-│   ├── blueprints/
-│   │   ├── brand-reveal.md
-│   │   └── stat-hero.md
-│   ├── adapters/
-│   │   ├── spring.md
-│   │   ├── interpolate.md
-│   │   ├── lottie.md
-│   │   └── three.md
-│   └── transitions/
-│       ├── overview.md
-│       └── catalog.md
-│
-├── remotion-keyframes/         # Precise frame-level animation
+├── remotion/                   # Main Entry Point & Router
 │   ├── SKILL.md
 │   └── references/
 │
-├── remotion-cli/               # CLI commands — render, studio, lambda
-│   ├── SKILL.md
-│   └── references/
-│       ├── render-options.md
-│       └── lambda.md
+├── remotion-core/              # Composition contract & determinism
+├── remotion-animation/         # Spring physics, motion patterns & blueprints
+├── remotion-keyframes/         # Precise frame timing & interpolate curves
+├── remotion-cli/               # Remotion CLI, studio, render & lambda
+├── remotion-creative/          # Design tokens, typography & house style
+├── remotion-media/             # Audio, video, image assets & captions
+├── remotion-data-viz/          # Dynamic SVG charts, counters & infographics
 │
-├── remotion-creative/          # Design, typography, narration
-│   ├── SKILL.md
-│   └── references/
-│       ├── house-style.md
-│       └── typography.md
-│
-├── remotion-media/             # Assets — audio, video, images, fonts, captions
-│   ├── SKILL.md
-│   └── references/
-│       ├── media-elements.md
-│       └── captions.md
-│
-└── remotion-data-viz/          # Charts, counters, infographics
-    ├── SKILL.md
-    └── references/
-        └── chart-patterns.md
+├── remotion-explainer/         # Explainer videos & concept walkthroughs
+├── remotion-product-launch/    # Product launch & app promo visualizers
+├── remotion-motion-graphics/   # Unnarrated short motion hits (<10s)
+├── remotion-slideshow/         # Slide decks & presentation videos
+├── remotion-music-video/       # Beat-synced visualizers & audio reactive
+├── remotion-captions/          # Word-highlight subtitled footage
+├── remotion-overlay/           # Graphic overlays over existing video
+├── remotion-general/           # Custom & long narrative compositions (>3m)
+├── remotion-social/            # 9:16 vertical TikTok / Reel / Shorts clips
+├── remotion-podcast/           # Podcast audiograms & waveform visualizers
+└── hyperframes-to-remotion/    # HyperFrames HTML to Remotion migration
 ```
 
 ## Key differences from HyperFrames
