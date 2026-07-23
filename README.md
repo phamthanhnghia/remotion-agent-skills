@@ -8,6 +8,12 @@ A complete agent skill set for building programmatic videos with [Remotion](http
 
 👉 **Watch Demo Video on YouTube**: [https://youtu.be/wWoTdSrEvag](https://youtu.be/wWoTdSrEvag)
 
+### 💬 Prompt used to create this video:
+```text
+Tạo thư mục riêng trong thư mục hiện tại tạo video "Giới thiệu hệ điều hành Ubuntu" bằng tiếng anh .
+Chỉ dựa vào @[.agents/skills] hiện tại , ưu tiên dùng pnpm
+```
+
 ## Structure
 
 ```
