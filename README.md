@@ -1,6 +1,12 @@
-﻿# Remotion Skills Suite
+# Remotion Skills Suite
 
 A complete agent skill set for building programmatic videos with [Remotion](https://www.remotion.dev/) — modeled on the HyperFrames skill architecture.
+
+## 🎬 Product Demo Video
+
+[![Remotion Skills Suite Demo Video](https://img.youtube.com/vi/wWoTdSrEvag/maxresdefault.jpg)](https://youtu.be/wWoTdSrEvag)
+
+👉 **Watch Demo Video on YouTube**: [https://youtu.be/wWoTdSrEvag](https://youtu.be/wWoTdSrEvag)
 
 ## Structure
 
