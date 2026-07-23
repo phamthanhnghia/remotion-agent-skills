@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/skills.json",
+  "name": "remotion-agent-skills",
+  "description": "Programmatic video creation skills suite for Remotion",
+  "entries": [
+    { "path": "skills/remotion" },
+    { "path": "skills/remotion-core" },
+    { "path": "skills/remotion-animation" },
+    { "path": "skills/remotion-keyframes" },
+    { "path": "skills/remotion-cli" },
+    { "path": "skills/remotion-creative" },
+    { "path": "skills/remotion-media" },
+    { "path": "skills/remotion-data-viz" }
+  ]
+}

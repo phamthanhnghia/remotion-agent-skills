@@ -14,6 +14,20 @@ Tạo thư mục riêng trong thư mục hiện tại tạo video "Giới thiệ
 Chỉ dựa vào @[.agents/skills] hiện tại , ưu tiên dùng pnpm
 ```
 
+## 📦 Installation
+
+Install the Remotion Skills Suite directly into your AI Agent / Cursor / Antigravity workspace with a single command:
+
+```bash
+npx skills add phamthanhnghia/remotion-agent-skills --full-depth
+```
+
+Alternatively, clone repository skills into your local project's `.agents/skills` directory:
+
+```bash
+git clone https://github.com/phamthanhnghia/remotion-agent-skills.git .agents/skills
+```
+
 ## Structure
 
 ```
