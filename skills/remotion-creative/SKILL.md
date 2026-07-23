@@ -1,9 +1,6 @@
-﻿---
+---
 name: remotion-creative
-description: >
-  Non-animation creative direction for Remotion videos. Use for design spec handling, palettes,
-  typography, narration, beat planning, audio-reactive visuals, composition patterns, and brand/style
-  decisions. For spring/interpolate motion patterns and scene blueprints, use `remotion-animation`.
+description: Non-animation creative direction for Remotion videos. Use for design spec handling, palettes, typography, narration, beat planning, and composition patterns.
 ---
 
 # Remotion Creative

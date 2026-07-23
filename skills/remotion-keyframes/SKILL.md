@@ -1,10 +1,6 @@
-﻿---
+---
 name: remotion-keyframes
-description: >
-  Use when a Remotion composition needs precise frame-level animation: spring physics tuning,
-  interpolate recipes, multi-stop value sequences, stagger orchestration, entrance/exit choreography,
-  text reveal animations, SVG stroke draw, and 3D depth via CSS perspective. Frame-deterministic,
-  seekable, no CSS transitions. Don't use for broad scene strategy, brand design, or media sourcing.
+description: Keyframe animation engine for Remotion. Use for precise frame-level animation, interpolate curves, stagger patterns, entrance/exit choreography, and text reveal animations.
 ---
 
 # Remotion Keyframes

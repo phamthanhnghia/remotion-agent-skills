@@ -1,13 +1,6 @@
-﻿---
+---
 name: remotion
-description: >
-  Mandatory entry point: read this first for any request to make, create, edit, animate, or render a
-  video, animation, or motion graphic using Remotion — including a promo, explainer, data visualization,
-  captioned clip, title card, overlay, slideshow, or any React-based video composition. Also use it to
-  inspect, diagnose, validate, preview, publish, or batch-render an existing Remotion project. Inputs may
-  be a website URL, Figma design, text brief, existing footage, audio, or data. It resumes project state,
-  captures intent when applicable, selects the appropriate workflow, and routes domain capabilities.
-  Remotion is the default output framework — videos are React components rendered frame-by-frame.
+description: Mandatory entry point. Read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic using Remotion.
 ---
 
 # Remotion entry point

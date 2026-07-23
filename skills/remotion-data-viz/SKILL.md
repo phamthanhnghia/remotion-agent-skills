@@ -1,10 +1,6 @@
-﻿---
+---
 name: remotion-data-viz
-description: >
-  Data visualization and infographics for Remotion — animated charts, counters, progress bars,
-  bar races, line chart draws, pie/donut reveals, network graphs, and data-driven motion graphics.
-  Use recharts, victory-native, or custom SVG/canvas via D3 calculations (rendering in React).
-  All values must be frame-deterministic. Use when data is the primary message of the video.
+description: Data visualization and infographics for Remotion. Use for animated charts, counters, progress bars, SVG paths, recharts, and D3 integrations.
 ---
 
 # Remotion Data Viz

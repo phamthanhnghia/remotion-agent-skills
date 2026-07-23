@@ -1,12 +1,6 @@
-﻿---
+---
 name: remotion-media
-description: >
-  Agent Media OS for Remotion projects — the single skill for every media need. Resolve BGM, SFX,
-  images, fonts, brand logos, voice (TTS), color grades into frozen local files or paste-ready blocks.
-  Place OffthreadVideo, Audio, Img correctly. Handle staticFile, getStaticFiles, delayRender for
-  async asset loading. Covers @remotion/google-fonts, @remotion/media-utils, captions via
-  @remotion/captions, and background removal. Use for any audio, image, font, voiceover, or
-  caption need in a Remotion project.
+description: Agent Media OS for Remotion projects. Resolve BGM, SFX, images, fonts, brand logos, TTS voiceover, and color grades into frozen local files or paste-ready blocks.
 ---
 
 # remotion-media

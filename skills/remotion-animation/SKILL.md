@@ -1,10 +1,6 @@
-﻿---
+---
 name: remotion-animation
-description: >
-  All animation knowledge for Remotion — atomic motion rules using interpolate/spring, multi-phase
-  scene blueprints, scene transitions, broader motion-design techniques. Covers spring physics tuning,
-  interpolate extrapolation modes, stagger patterns, entrance/exit choreography, text animations,
-  and layout-driven motion. HyperFrames-style: frame-deterministic, seekable, no CSS transitions.
+description: All animation knowledge for Remotion. Atomic motion rules using interpolate/spring, multi-phase scene blueprints, scene transitions, and broader motion-design techniques.
 ---
 
 # Remotion Animation

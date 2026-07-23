@@ -1,11 +1,6 @@
-﻿---
+---
 name: remotion-core
-description: >
-  The Remotion composition contract — build one renderable project. Use for composition structure,
-  useCurrentFrame, useVideoConfig, interpolate, spring, Sequence, Series, OffthreadVideo, Audio,
-  Img, AbsoluteFill, staticFile, deterministic-render rules, and validation. Also covers
-  calculateMetadata, InputProps schema, and the STORYBOARD.md / SCRIPT.md plan formats.
-  Read before writing any Remotion composition code.
+description: The Remotion composition contract. Use for composition structure, useCurrentFrame, useVideoConfig, interpolate, spring, Sequence, Series, OffthreadVideo, Audio, Img, staticFile, and deterministic render rules.
 ---
 
 # Remotion Core

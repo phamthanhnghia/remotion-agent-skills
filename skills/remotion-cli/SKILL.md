@@ -1,10 +1,6 @@
-﻿---
+---
 name: remotion-cli
-description: >
-  Use the Remotion CLI development loop: studio, render, still, bundle, upgrade, lambda deploy/render,
-  lambda sites, lambda functions, compositions list, install-executables. Also use when diagnosing
-  build or render failures, setting remotion.config.ts, and tuning concurrency and codec options.
-  Covers local rendering, AWS Lambda distributed rendering, and Remotion Cloud rendering.
+description: Use the Remotion CLI development loop. Studio dev server, render compositions to MP4, deploy to Lambda, sites, functions, compositions list, and troubleshooting.
 ---
 
 # Remotion CLI
